@@ -1,0 +1,160 @@
+学术报告——Towards More Robust Person Re-identification with Group Consistency and Background-bias Elimin
+
+学术报告——藏文信息处理技术发展
+
+学术报告——Towards Explainable Recommendation via the Exploration of Multimodal Data
+
+学术报告——Decision Making via Model Checking
+
+学术报告——Hidden genomic codes of cancer and precision oncology
+
+学术报告——虚实环境的沉浸式视觉融合呈现
+
+学术报告——Physical-Level Cross-Technology-Communication
+
+学术报告——Enhanced random walk segmentation methods and the related applications for biomedical images
+
+学术报告——Consensus learning using distance preserving embedding methods
+
+学术报告—— Online Visual Tracking via Deep Regression Networks
+
+学术报告——SC2Net: Sparse LSTMs for Sparse Coding
+
+学术报告——Practical Visible Light Communication System Leveraging LED Sensing
+
+学术报告——Enabling IoT: Efficient tag management in large-scale RFID systems
+
+学术报告——Energy-Efficient Algorithms and Protocols in Wireless Body Area Networks
+
+学术报告——Blockchain and its Applications
+
+学术报告——进化机器人的智商与情商
+
+学术报告——Emerging multi-parametric MRI and their potentials in tumor imaging
+
+学术报告——用深度学习驱动的数据语义学增强医学信息的分类和提取
+
+学术报告——从比特币到区块链：商务创新与区块链技术的研发与应用
+
+学术报告——MANY-OBJECTIVE EVOLUTIONARY ALGORITHMS-VISUALIZATION AND DECISION-MAKING
+
+学术报告——Large-scale gesture recognition based on C3D convolutional networks
+
+学术报告——东南亚语言信息处理及应用
+
+学术报告——Towards Utilization of Grammatical Information in Text Analysis
+
+学术报告——Towards Pervasive and User Satisfactory Deep Learning in Big Data Era
+
+学术报告——A Cyber-Physical Approach to Internet of Things: Experience with Mobile Health, Green Home, an
+
+学术报告——Smart Mobility: A data and sensing point of view
+
+学术报告——可视化和可视分析研究中的系统评估
+
+学术报告——Mobile Cloud Computing and Edge Computing
+
+学术报告——Power Sensor Networks by Wireless Energy - Current Status and Future Trend
+
+学术报告——基于面部的表情识别算法的研究
+
+学术报告——Understanding the Shape of Data with Topological Data Analysis and Visualization
+
+学术报告——Algorithms for Big Data Analytics via Coresets and Sketches
+
+学术报告——Street View Interpolation and Navigation
+
+学术报告——澳大利亚的科研评价
+
+学术报告——Intelligent Control of Servo Motor Drives
+
+学术报告——Learning Control: Ideas and Problems in Adaptive Fuzzy Control
+
+学术报告——数据时代的可视分析
+
+学术报告——Lazy evaluation for efficient dimensional OLAP-like analysis on Big Data
+
+学术报告——使用基于代理的多解析多尺度的并行模型仿真肿瘤发展
+
+学术报告——Automated Embolic Signal Detection Using Adaptive Gain Control and Classification Using ANFIS
+
+学术报告——面向大社交网络的计算模型
+
+学术报告——Hybrid Vortex Model for Efficient Diffusive, Turbulent Smoke Simulations
+
+学术报告——大数据及应用
+
+学术报告——On the Connection between Vision and Language
+
+学术报告——Large-Scale Web Database Integration Systems
+
+学术报告——Predictable GPGPU computing for automotive applications
+
+学术报告——A visual exploration of the Geospatial data
+
+学术报告——Why Deep Learning Works
+
+学术报告——Spatial and textual data management
+
+学术报告——Ocean One: A Robotic Avatar for Oceanic Discovery
+
+学术报告——Towards Unified Decision-Making Framework for Mobile App Offloading to Cloud Computing: From T
+
+学术报告——Efficient Simulation Optimization under Uncertainty via Multi-fidelity Modeling and Analysis
+
+学术报告——On Fusion of Heterogeneous Data Sources
+
+学术报告——Web Data Truthfulness Analysis
+
+学术报告——Mining Social Ties Beyond Homophily 
+
+学术报告——Cognitive Robotics: Recent Developments and  Futuristic Trends
+
+学术报告——Introduction of co-saliency detection and co-segmentation
+
+学术报告——Open Data for Analysts and Programmers
+
+学术报告——Smart Grid and the Internet of Things（智能电网与物联网）
+
+学术报告——计算机科学技术总论（2016）
+
+学术报告——Three-Way Decisions and Big Data Analytics (三支决策与大数据分析学)
+
+学术报告——Intelligence for cyber-physical and embedded systems
+
+学术报告—— 大数据时代的数据挖掘
+
+学术报告—— Ontologies, Semantic Technologies and  the Semantic Web: The Story so Fa
+
+学术报告——安全通论
+
+学术报告——增强现实研究的现状与未来发展
+
+学术报告——Neuromorphic Computing Using Spiking Neural Networks
+
+学术报告——Neuromorphic Vision Processing using Spiking Neural Networks
+
+学术报告——Isolation Forest and Recent Development of Isolation Techniques for Anomaly Detection
+
+学术报告——A Scalable Online Solution to Multiagent Sequential Decision Making
+
+学术报告——Information technology at Purdue University Calumet and the current research areas in social m
+
+学术报告——基于区别性字典的CT图像处理和伪影抑制&基于回溯累加的最小路径搜索以及其血管提取中的应用 
+
+学术报告——Social-Aware Video Multicast Based on Device-to-Device Communications
+
+学术报告——自动驾驶车系统与技术
+
+学术报告——From Traditional Databases to Big Data Databases
+
+学术报告——大数据前沿讨论
+
+学术报告——Ensemble Approaches in Learning
+
+学术报告——未来智能互联网
+
+学术报告——Game Theory for Security: Challenges and Recent Progress
+
+学术报告——Pattern Aided Regression Modeling
+
